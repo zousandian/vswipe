@@ -50,12 +50,12 @@
     },
 
     methods: {
-      prev () {
-        this.swipe.prev()
+      prev (restart) {
+        this.swipe.prev(restart)
       },
 
-      next () {
-        this.swipe.next()
+      next (restart) {
+        this.swipe.next(restart)
       },
 
       getPos () {
