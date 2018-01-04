@@ -12,7 +12,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "swipe-js-iso": "^2.0.3"
+    "swipe-js-iso": "https://github.com/paranoidjk/swipe-js-iso"
   },
   "devDependencies": {
     "vue": "^2.2.1",
